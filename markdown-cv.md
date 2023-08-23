@@ -26,3 +26,7 @@ Worked at Moustapha Labban perfumes shop as website manager handling orders, dat
 ### Other Skills
 - Expert in many computer programs including Microsoft Office, Excel, Powerpoint and have a great knowledge about all social media platforms including Facebook, Instagram and Twitter.
 Professional at all the programming languages such as JavaScript (Angular), HTML / CSS, Python, SQL, REST APIs, Git.
+
+### References
+ - References, college transcripts and any other documents will be available upon request.
+
