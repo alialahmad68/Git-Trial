@@ -1,8 +1,9 @@
 # Ali Al Ahmad
 Websites Developer
- Beirut, Lebanon  
+Beirut, Lebanon  
 Email: ali.alahmad.cs@gmail.com  
 Phone Number: +961 71 505 894
+![profile](alialahmad.jpeg)
 
 ## Career Objective
 - Flexible, autonomous graduate with an BS in Computer Science, skilled and motivated programmer looking to leverage experience building responsive and scalable web apps to solve problems that delight end-users.
